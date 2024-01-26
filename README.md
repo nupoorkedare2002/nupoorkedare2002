@@ -7,7 +7,7 @@
 - 📝 Articles : https://nupoor08.hashnode.dev/
 
   
-My Absolute Favorites:
+My Absolute Favorites :
   
  - 💻   I love exploring new technologies and building cool stuff.
 
