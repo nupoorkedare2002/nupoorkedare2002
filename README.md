@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m nupoor , postgrad IT student
-- 👀 I’m interested in  AI&ML | Data Science | Devops
+- 👀 I’m interested in  AI | Data Science | Devops
 - 🌱 I’m currently learning Python
 - 📫 How to reach me [Linkdin] : https://www.linkedin.com/in/nupoor-kedare/
 - 😄 Pronouns: she/her
