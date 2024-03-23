@@ -1,17 +1,8 @@
 
-- 👋 Hi, I’m nupoor , postgrad IT student
-- 👀 I’m interested in  AI | Data Science | Devops
-- 🌱 I’m currently learning Python
-- 📫 How to reach me [Linkdin] : https://www.linkedin.com/in/nupoor-kedare/
-- 😄 Pronouns: she/her
+![web](https://github.com/nupoorkedare2002/nupoorkedare2002/assets/143624372/bba9858f-831f-42ea-abd6-d783f403c796)
 
   
-My Absolute Favorites :
-  
- - 💻   I love exploring new technologies and building cool stuff.
 
- -  📰   Reading, writing & watching Tech Stuff whenever possible.
- -  🍕   Tech Events & Hackathons.
 
 <!---
 nupoorkedare2002/nupoorkedare2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
