@@ -1,5 +1,5 @@
 
-![web](https://github.com/nupoorkedare2002/nupoorkedare2002/assets/143624372/bba9858f-831f-42ea-abd6-d783f403c796)
+![web (1)](https://github.com/nupoorkedare2002/nupoorkedare2002/assets/143624372/d63e4a91-6259-4d9e-9345-587ca78bce03)
 
   
 
