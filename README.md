@@ -17,7 +17,6 @@ Here are a few things about me:
 
 ## 📚 Interests:
 - Reading tech blogs and staying updated with industry trends
-- Designing UI/UX using Canva and Figma
 - Writing clean and efficient code
 
 ## 🚀 Goals for the Future:
