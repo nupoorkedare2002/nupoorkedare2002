@@ -6,7 +6,7 @@ Here are a few things about me:
 
 ## 💻 Technologies I Work With:
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js
+- Backend: Node.js,django
 - Databases: SQL, MongoDB
 - Other: Python, Git, Bash Commands
 
