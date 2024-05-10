@@ -5,10 +5,12 @@ I'm a passionate master's IT student who loves diving deep into web development 
 Here are a few things about me:
 
 ## 💻 Technologies I Work With:
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js,django
-- Databases: SQL, MongoDB
-- Other: Python, Git, Bash Commands
+
+- Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
+- Backend Development: Python (Django, Flask), C# (.NET Core), RESTful APIs
+- Database: PostgreSQL, SQLite, MySQL
+- Version Control: Git, GitHub
+- Other Tools: Visual Studio Code
 
 ## 🌱 What I'm Currently Learning:
 - Advanced React concepts
