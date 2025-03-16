@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Nupoor!
 
-I'm a passionate master's IT student who loves diving deep into web development and exploring the world of technology. 
+I'm a passionate about web development and exploring the world of technology. 
 Here are a few things about me:
 
 ## 💻 Technologies I Work With:
